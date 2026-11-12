@@ -34,7 +34,6 @@ I'm studying **HTML, CSS, PHP and SQL**, including table creation, and have some
 
 <p align="center">
   <img src="assets/github-stats.svg" width="420" alt="Estatísticas de Felype Ulian geradas pelo GitHub Readme Stats">
-  <img src="assets/top-languages.svg" width="420" alt="Distribuição das linguagens por volume de código nos projetos públicos de Felype Ulian">
 </p>
 
 
