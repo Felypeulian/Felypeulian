@@ -16,14 +16,11 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI Armando de Arruda Pereir
 
 Estudo **HTML, CSS, PHP e SQL**, com foco na criação de tabelas, e também tenho conhecimentos de **Python e lógica de programação**. Aplico o que aprendo em projetos acadêmicos, praticando a organização das páginas, formulários, autenticação e gerenciamento de dados.
 
-<details>
-<summary>About me · English</summary>
+## About me
 
 I'm a **Systems Development student at SENAI Armando de Arruda Pereira**, in São Caetano do Sul, Brazil. I'm building a foundation in web development and interested in pursuing a career focused on **databases**.
 
 I'm studying **HTML, CSS, PHP and SQL**, including table creation, and have some knowledge of **Python and programming fundamentals**. My academic projects help me practice page structure, forms, authentication and data management.
-
-</details>
 
 ## Tecnologias em estudo
 
@@ -44,11 +41,11 @@ I'm studying **HTML, CSS, PHP and SQL**, including table creation, and have some
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="assets/github-stats.svg" width="420" alt="Resumo dos repositórios públicos, estrelas recebidas e linguagens nos projetos de Felype Ulian">
+  <img src="assets/github-stats.svg" width="420" alt="Estatísticas de Felype Ulian geradas pelo GitHub Readme Stats">
   <img src="assets/top-languages.svg" width="420" alt="Distribuição das linguagens por volume de código nos projetos públicos de Felype Ulian">
 </p>
 
-Os cartões são atualizados diariamente. As linguagens refletem o volume de código dos projetos públicos, sem forks ou arquivos de manutenção deste perfil.
+Cartões gerados diariamente com [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). As linguagens representam a distribuição do código dos projetos públicos, sem o repositório deste perfil.
 
 ## Contato
 
