@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Felype Ulian, Rank: C</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  (Ano passado) : 18, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  (Ano passado) : 19, Total de PRs: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #E94F37;
+            fill: #8AB4C0;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #F6F7EB;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #FFFFFF;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F6F7EB;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #E94F37;
+      fill: #8AB4C0;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #E94F37;
+      stroke: #8AB4C0;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #E94F37;
+      stroke: #8AB4C0;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 249.28823701464867;
+        stroke-dashoffset: 249.17790590626774;
       }
     }
   
@@ -116,9 +116,9 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#F6F7EB"
+          stroke="#4E7480"
           width="419"
-          fill="#393E41"
+          fill="#27292D"
           stroke-opacity="1"
         />
 
@@ -184,7 +184,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >18</text>
+      >19</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
