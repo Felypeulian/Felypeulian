@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Felypeulian&show_icons=true&bg_color=393E41&title_color=E94F37&text_color=F6F7EB&icon_color=E94F37&border_color=F6F7EB&locale=pt-br&rank_icon=github&card_width=420
+          options: username=Felypeulian&show_icons=true&bg_color=27292D&title_color=8AB4C0&text_color=FFFFFF&icon_color=8AB4C0&border_color=4E7480&locale=pt-br&rank_icon=github&card_width=420
           path: assets/github-stats.svg
           token: ${{ github.token }}
           fail_on_error: 'true'
@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Felypeulian&layout=compact&bg_color=393E41&title_color=E94F37&text_color=F6F7EB&icon_color=E94F37&border_color=F6F7EB&locale=pt-br&langs_count=6&card_width=420&exclude_repo=Felypeulian&hide=Hack
+          options: username=Felypeulian&layout=compact&bg_color=27292D&title_color=8AB4C0&text_color=FFFFFF&icon_color=8AB4C0&border_color=4E7480&locale=pt-br&langs_count=6&card_width=420&exclude_repo=Felypeulian&hide=Hack
           path: assets/top-languages.svg
           token: ${{ github.token }}
           fail_on_error: 'true'
